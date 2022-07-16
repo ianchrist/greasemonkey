@@ -4,8 +4,9 @@
 // @namespace   https://github.com/ianchrist/greasemonkey
 // @downloadURL https://raw.githubusercontent.com/ianchrist/greasemonkey/main/removeRedditMonetizationLinks.user.js
 // @match       https://www.reddit.com/*
+// @icon        https://cdn.iconscout.com/icon/free/png-256/reddit-2752088-2284905.png
 // @grant       none
-// @version     1.0.1
+// @version     1.1.0
 // @author      ianchrist
 // @run-at      document-start
 // @license     MIT
