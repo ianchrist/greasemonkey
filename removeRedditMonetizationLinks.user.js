@@ -2,9 +2,10 @@
 // @name        Remove Reddit Monetization Buttons
 // @description Removes the "Shop Avatars" and "Buy coins" buttons from Reddit.
 // @namespace   https://github.com/ianchrist/greasemonkey
+// @downloadURL https://raw.githubusercontent.com/ianchrist/greasemonkey/main/removeRedditMonetizationLinks.user.js
 // @match       https://www.reddit.com/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      ianchrist
 // @run-at      document-start
 // @license     MIT
